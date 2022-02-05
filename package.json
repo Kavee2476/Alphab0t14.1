@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot",
+  "name": "KAvee",
   "version": "0.14.1",
   "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
@@ -68,15 +68,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofc"
+    "url": "https://github.com/Kavee2476"
   },
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Oshada",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zeeoneofc"
+    "url": "https://github.com/Kavee2476"
   },
-  "homepage": "https://github.com/zeeoneofc"
+  "homepage": "https://github.com/Kavee2476"
 }
